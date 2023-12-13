@@ -6,4 +6,4 @@ This project is for The Odin Project foundations curriculum, and by the end of t
 2. Link other webpages, both relatively and absolutely.
 3. Include images to webpages.
 
-Status: WIP
+Status: Completed successfully ;)
